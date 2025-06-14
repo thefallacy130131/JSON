@@ -2,10 +2,10 @@
   "title": "Super Tuyul",
   "author": "Motogothic",
   "examples": [
-    "1:- KAAAAAAANGGGGG!!!",
-    "2:- KONCOKU ABSEN NE TUYUL",
-    "3:- EH YA AMPUN!!!!",
-    "4:- CAH KURANG AJAR KUWI!!!!"
+    "1:- failed to invite user",
+    "2:- invite request database error",
+    "3:- Database error saving new user",
+    "4:- username rejected by system"
   ],
   "alphabet_line": "motogothic",
   "join_telegram": "https://t.me/ariendranevan",
