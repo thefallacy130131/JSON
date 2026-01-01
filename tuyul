@@ -2,10 +2,10 @@
   "title": "Super Tuyul",
   "author": "TheFallacy",
   "examples": [
-    "1:- database tidak ditemukan",
+    "1:- Database tidak ditemukan",
     "2:- invite request database error",
     "3:- Database error simpan user baru",
-    "4:- username ditolak by system"
+    "4:- Database tidak ditemukan"
   ],
   "alphabet_line": "TheFallacy",
   "join_telegram": "https://t.me/ariendranevan",
